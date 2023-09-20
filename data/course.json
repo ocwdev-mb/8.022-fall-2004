@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "legacy_uid": "3ec4abd5-d9c2-6de0-aef4-f8a4087c7d7b",
+  "instructors": {
+    "content": [
+      "d88e56d0-78ab-d3a0-5631-a1d82ecec665"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "9afec2c0-ef4c-aef7-7527-05763d72d274",
+    "website": "8-022-physics-ii-electricity-and-magnetism-fall-2004"
+  },
+  "course_title": "Physics II: Electricity and Magnetism",
+  "course_description": "Course 8.022 is one of several second-term freshman physics courses offered at MIT. It is geared towards students who are looking for a thorough and challenging introduction to electricity and magnetism. Topics covered include: Electric and magnetic field and potential; introduction to special relativity; Maxwell's equations, in both differential and integral form; and properties of dielectrics and magnetic materials. In addition to the theoretical subject matter, several experiments in electricity and magnetism are performed by the students in the laboratory.\n\n**Acknowledgments**\n\nProf. Sciolla would like to acknowledge the contributions of MIT Professors Scott Hughes and Peter Fisher to the development of this course. She would also like to acknowledge that these course materials include contributions from past instructors, textbooks, and other members of the MIT Physics Department affiliated with course 8.022. Since the following works have evolved over a period of many years, no single source can be attributed.",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.022",
+  "course_image_thumbnail": {
+    "content": "bb8270aa-14fd-a35f-1232-e3d8eeec2c89",
+    "website": "8-022-physics-ii-electricity-and-magnetism-fall-2004"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "ebb9e655-d69d-41b9-8d93-f5268b73da86",
+  "site_short_id": "8.022-fall-2004",
+  "title": "Course Metadata"
+}
